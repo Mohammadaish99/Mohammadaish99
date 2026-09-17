@@ -68,7 +68,7 @@ Data analysis and machine learning project for analyzing customer churn.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammad-aish-722171316/
 - 📧 Email: Aishm4864@gmail.com
-- 📸 Instagram: https://www.instagram.com/md_aish_khan_1111/
+- 📸 Instagram: https://www.instagram.com/aish.codes_/
 
 ---
 
